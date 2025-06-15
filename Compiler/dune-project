@@ -1,0 +1,12 @@
+(lang dune 2.4)
+
+(using menhir 2.1)
+
+(name compilers2025-hw4)
+
+(package
+  (name compilers2025-hw4)
+  (depends
+    (dune :build)
+    (menhir :build)
+    (core :build)))

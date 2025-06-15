@@ -1,0 +1,18 @@
+(executable
+  (name main)
+  (public_name compilers2025-hw4)
+  (libraries
+    unix
+    core 
+    batteries
+    logs
+    mtime
+    mtime.clock.os
+  )
+  
+(package compilers2025-hw4))
+
+ (menhir
+  (modules parser))
+    
+(ocamllex lexer)
