@@ -1,0 +1,279 @@
+
+Process A : I will use CPU by 7s.
+
+Process B : I will use CPU by 5s.
+
+Process C : I will use CPU by 3s.
+
+Process C : Finish! My response time is 0s and My total wait time is 0s.
+
+Process B : Finish! My response time is 0s and My total wait time is 3s.
+
+Process A : Finish! My response time is 0s and My total wait time is 9s.
+
+[월  5월 19 23:12:21 2025] Working: A
+[월  5월 19 23:12:21 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: A
+[월  5월 19 23:12:22 2025] Working: B
+[월  5월 19 23:12:22 2025] Working Denied: A
+[월  5월 19 23:12:22 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: C
+[월  5월 19 23:12:23 2025] Working Denied: B
+[월  5월 19 23:12:23 2025] Working Denied: A
+[월  5월 19 23:12:23 2025] Working: C
+[월  5월 19 23:12:23 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:24 2025] Working Denied: A
+[월  5월 19 23:12:24 2025] Working: C
+[월  5월 19 23:12:24 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:25 2025] Working Denied: B
+[월  5월 19 23:12:25 2025] Working Denied: A
+[월  5월 19 23:12:25 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Working: C
+[월  5월 19 23:12:26 2025] Working Denied: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:26 2025] Process Finished: C
+[월  5월 19 23:12:26 2025] Working: B
+[월  5월 19 23:12:26 2025] Working: B
+[월  5월 19 23:12:26 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:27 2025] Working: B
+[월  5월 19 23:12:27 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working Denied: A
+[월  5월 19 23:12:28 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:29 2025] Working Denied: A
+[월  5월 19 23:12:29 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:30 2025] Working Denied: A
+[월  5월 19 23:12:30 2025] Working: B
+[월  5월 19 23:12:31 2025] Working Denied: A
+[월  5월 19 23:12:31 2025] Process Finished: B
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:31 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:32 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:33 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:34 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:35 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:36 2025] Working: A
+[월  5월 19 23:12:37 2025] Working: A
+[월  5월 19 23:12:37 2025] Working: A
+[월  5월 19 23:12:37 2025] Working: A
+[월  5월 19 23:12:37 2025] Process Finished: A
