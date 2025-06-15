@@ -1,0 +1,139 @@
+/* Overlay for centering the popup */
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5); /* Optional: Adds a dim background */
+    z-index: 999;
+  }
+.contact-selector-popup {
+    background: white;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Close Button */
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    color: #999;
+  }
+  
+  /* Tabs */
+  .popup-tabs {
+    display: flex;
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 20px;
+  }
+  
+  .popup-tabs button {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background: none;
+    color: #999;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .tab-active {
+    color: #4f46e5;
+    border-bottom: 3px solid #4f46e5;
+    font-weight: bold;
+  }
+  
+  /* Email Tab */
+  .email-tab {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .email-input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+  }
+  
+  .add-email-button {
+    padding: 10px 20px;
+    background: #4f46e5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Contact Tab */
+  .contact-tab {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+  }
+  
+  .contact-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .contact-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .contact-avatar.added {
+    background: #4f46e5;
+    color: white;
+  }
+  
+  .contact-avatar.not-added {
+    background: #e0e0e0;
+    color: black;
+  }
+  
+  .status-button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+  
+  .status-button.added {
+    background: #4f46e5;
+    color: white;
+  }
+  
+  .status-button.not-added {
+    background: #e0e0e0;
+    color: black;
+  }
+  

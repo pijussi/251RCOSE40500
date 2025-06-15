@@ -1,0 +1,160 @@
+.calendar-button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.8em 1.2em;
+    background-color: #5c4cf3;
+    color: #fff;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    border: none;
+}
+
+.calendar-button:hover {
+    background-color: #473bb0;
+}
+
+.calendar-button .arrow-icon {
+    font-size: 1.2em;
+    margin-left: 0.5em;
+}
+
+.friend-list-container {
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    margin: 0em 1em 1em 0;
+    margin-left: 1em;
+    padding: 1em;
+    font-family: Arial, sans-serif;
+}
+
+.friend-list-container h1 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    color: #000;
+    text-align: center;
+}
+
+.calendar-link {
+    color: #5c4cf3;
+    text-decoration: none;
+    font-size: 0.9em;
+    display: block;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.search-container {
+    position: relative;
+    margin-bottom: 1em;
+}
+
+.search-container input[type="search"] {
+    width: 100%;
+    padding: 0.6em;
+    padding-right: 2.5em; /* Space for search icon */
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    font-size: 0.9em;
+}
+
+.search-container input::placeholder {
+    color: #aaa;
+    font-style: italic;
+}
+
+.search-icon {
+    position: absolute;
+    right: 1em;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #aaa;
+    font-size: 1.2em;
+}
+
+.friend-list {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0;
+}
+
+.friend-list li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.6em 1em;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-bottom: 0.6em;
+    transition: background-color 0.3s ease;
+}
+.friend-list li:hover {
+    background-color: #f9f9f9;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+}
+
+.avatar span {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #eee;
+    color: #000;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1em;
+    font-size: 0.9em;
+}
+
+.friend-name {
+    font-weight: bold;
+    margin: 0;
+    font-size: 1em;
+}
+
+.friend-id {
+    margin: 0;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.all-item {
+    background-color: #f9f9f9;
+    border: 1px solid transparent;
+}
+
+.add-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0.8em;
+    background-color: #5c4cf3;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-top: 1em;
+    transition: background-color 0.3s ease;
+}
+
+.add-button:hover {
+    background-color: #473bb0;
+}
+
+.add-button svg {
+    margin-right: 0.5em;
+}

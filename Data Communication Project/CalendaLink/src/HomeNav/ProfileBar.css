@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Roboto:wght@500&display=swap');
+
+.profile-card {
+    display: flex; /* Align children horizontally */
+    align-items: center; /* Vertically center items */
+    padding: 1em; /* Add some padding */
+    background-color: #fff; /* Set background color */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    width: 300px; /* Adjust width as needed */
+    margin: 0em 1em 1em 0; /* Center horizontally on the page */
+    margin-left: 1em;
+}
+
+.profile-card ul {
+    display: flex;
+    justify-content: space-between; /* Space between avatar/details and settings icon */
+    align-items: center;
+    list-style-type: none; /* Remove list styling */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.profile-card li {
+    display: flex;
+    list-style-type: none;
+}
+
+.profile-avatar {
+    width: 50px;
+    height: 50px;
+  background-color: #ffffff; /* Blue background */
+  color: rgb(0, 0, 0); /* White text */
+  font-size: 1.5em;
+  font-weight: bold;
+  display: flex;
+  justify-content: center; /* Center the letter horizontally */
+  align-items: center; /* Center the letter vertically */
+  border-radius: 50%; /* Circle shape */
+  margin-right: 1em; /* Spacing between avatar and details */
+}
+
+.setting-icon {
+    margin-left: 1em; /* Space between details and icon */
+    color: #666; /* Lighter gray for icon */
+    font-size: 1.2em; /* Adjust size of the icon */
+    cursor: pointer; /* Pointer cursor for interactivity */
+}
+
+.profile-details h3 {
+    margin: 0;
+    font-size: 1.2em; /* Name font size */
+    color: #333; /* Dark gray for the name */
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.profile-details p {
+    margin: 0;
+    color: #666; /* Lighter gray for the phone number */
+    font-size: 0.9em;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .profile-settings {
+    color: #666; /* Lighter gray for the icon */
+    font-size: 1.5em;
+    cursor: pointer; /* Pointer cursor for interactivity */
+  }
+
+  .profile-settings:hover {
+    color: #333; /* Darker gray on hover */
+  }
+
+  .profile-card a {
+    text-decoration: none; /* Remove underline from all links */
+    color: inherit; /* Ensure it inherits the color from the parent */
+}

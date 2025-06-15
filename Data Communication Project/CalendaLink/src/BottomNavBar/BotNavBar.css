@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+Australia:wght@500&display=swap');
+
+
+.bot-nav-bar {
+    background-color: #5c4cf3; 
+    color: white; 
+    text-align: center; 
+    padding: 5px 0; 
+    font-size: 20px; 
+    font-family: 'Edu Australia', cursive;
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+  }
+
+  .bot-nav-bar a {
+    color: white; 
+    text-decoration: none; 
+  }
+
+  .bot-nav-bar img {
+    width: 150px; 
+    height: auto; 
+  }
